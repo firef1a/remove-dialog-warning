@@ -13,7 +13,7 @@ public class MDialogScreen {
 
 	@Inject(method = "init", at = @At("TAIL"))
 	protected void init(CallbackInfo ci) {
-		this.warningButton.visible = false;
+		this.warningButton.visible = false;//
 	}
 }
 
