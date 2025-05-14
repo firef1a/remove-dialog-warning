@@ -1,0 +1,1 @@
+Removes the warning icon next to the title on custom dialogs.

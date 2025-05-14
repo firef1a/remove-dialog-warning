@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "remove-dialog-warning",
 	"version": "${version}",
-	"name": "Disable Dialog Warnings",
+	"name": "Remove Dialog Warning",
 	"description": "^^^ title",
 	"authors": [
-		"firef1a"
+		"fire1a"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
